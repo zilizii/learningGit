@@ -11,4 +11,6 @@ Create New Branch
 
 git checkout -b LessionBranch
 
+FANCY TEXT added as Feature1
+
 
